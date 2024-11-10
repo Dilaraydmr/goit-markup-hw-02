@@ -1,0 +1,45 @@
+body{
+    font-family: "Roboto", sans-serif ;
+}
+
+.ul-about1{
+   
+    color: #2E2F42;
+    list-style-type: none;
+}
+.li1{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-about{
+    list-style-type: none;
+}
+h1 {
+     text-align: center;
+    background-color: #2E2F42;
+    text-align: center;
+    font-size: 56px;
+    line-height: 3.75em;
+    letter-spacing: 2%;
+    color: #FFFFFF;
+}
+.button-about {
+    text-align: center;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5em;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button-about:hover{
+    background-color: #4D5AE5;}
+  
+    .footer-about {
+        font-family: Roboto;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+       
+    }
