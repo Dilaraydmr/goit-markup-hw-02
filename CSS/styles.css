@@ -3,16 +3,24 @@ body{
     color: #434455;
     background-color:#FFFFFF;
 }
+.logo{
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-.ul-about1{
-   
+.nav-bar{
     color: #2E2F42;
+    font-family: "Raleway";
+    font-weight: 700;
     list-style-type: none;
 }
-.li1{
-    text-decoration: none;
-    cursor: pointer;
-}
+
+
 
 .button-about{
     list-style-type: none;
