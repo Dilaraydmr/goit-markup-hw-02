@@ -42,6 +42,12 @@ h1 {
         font-family: Roboto;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #F4F4FD;
+        color: #2e2f42'
        
+    }
+    .end-prg{
+        font-family: Roboto;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
     }
