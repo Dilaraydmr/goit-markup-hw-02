@@ -13,7 +13,7 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #434455;
+    color: #4d5ae5;
     text-decoration:none;
 }
 .logo-span {
@@ -31,6 +31,8 @@ body{
     font-family: "Raleway";
     font-weight: 700;
     list-style-type: none;
+    text-decoration: none;
+  
 }
  #nav-bar-one {
     font-weight: 500;
@@ -54,18 +56,20 @@ body{
     color: #404bbf ;
     
 }
-.adress-bar {
+.address-bar {
     color: #434455;
     font-family: inherit;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
     text-decoration: none;
     list-style-type: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+
   }
-  #adress-bar-mail {
+  #address-bar-mail {
     color: #434455;
     font-family: inherit;
     font-weight: 400;
@@ -76,12 +80,13 @@ body{
     text-decoration: none;
     list-style-type: none;
   }
-  #adress-bar-mail:hover {
-    color: #404BBF;
+  #address-bar-mail:hover {
+    color: #404bbf ;
   }
-  #adress-bar-mail:focus {
-    color: #404BBF;
+  #address-bar-mail:focus {
+    color: #404bbf;
   }
+
   .section-one {
     background-color: #2E2F42;
   }
@@ -98,7 +103,7 @@ body{
     text-align: center;
   }
   .section-one-button {
-    background-color: #4D5AE5;
+    background-color: #4d5ae5;
     color: #FFFFFF;
     font-family: inherit;
     font-weight: 500;
