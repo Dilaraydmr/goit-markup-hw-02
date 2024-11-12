@@ -24,7 +24,7 @@ body{
     color: #2e2f42;
 }
 
-.nav-bar{
+.link{
     color: #2E2F42;
     font-family: "Raleway";
     font-weight: 500;
@@ -34,7 +34,7 @@ body{
     letter-spacing: 0.02em;
   
 }
- .nav-bar-one {
+ .link {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
@@ -42,34 +42,34 @@ body{
     
 
  }
- .nav-bar:hover {
+ .link:hover {
   font-weight: 500;
   line-height: 1.5 ;
   letter-spacing: 0.02em;
   color: #404bbf ;
   
 }
-.nav-bar:focus {
+.link:focus {
   font-weight: 500;
   line-height: 1.5 ;
   letter-spacing: 0.02em;
   color: #404bbf ;
 }
- .nav-bar-one:hover {
+ .link:hover {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
     color: #404bbf ;
     
 }
-.nav-bar-one:focus {
+.link:focus {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
     color: #404bbf ;
     
 }
-.address-bar {
+.link {
     color: #434455;
     font-family: inherit;
     font-weight: 400;
@@ -82,7 +82,7 @@ body{
 
 
   }
- .address-bar-mail {
+ .link {
     color: #434455;
     font-family: inherit;
     font-weight: 400;
@@ -93,16 +93,16 @@ body{
     text-decoration: none;
     list-style-type: none;
   }
-  .address-bar-mail:hover {
+  .link:hover {
     color: #404bbf ;
   }
-  .address-bar-mail:focus {
+  .link:focus {
     color: #404bbf;
   }
-  .address-bar:hover{
+  .link:hover{
     color: #404bbf ;
   }
-  .address-bar:focus{
+  .link:focus{
     color: #404bbf ;
   }
 
