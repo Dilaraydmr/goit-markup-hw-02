@@ -34,14 +34,7 @@ body{
     letter-spacing: 0.02em;
   
 }
- .link {
-    font-weight: 500;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em;
-    color: #2e2f42 ;
-    
 
- }
  .link:hover {
   font-weight: 500;
   line-height: 1.5 ;
@@ -55,22 +48,9 @@ body{
   letter-spacing: 0.02em;
   color: #404bbf ;
 }
- .link:hover {
-    font-weight: 500;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em;
-    color: #404bbf ;
-    
-}
-.link:focus {
-    font-weight: 500;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em;
-    color: #404bbf ;
-    
-}
-.link {
-    color: #2e2f42 ;
+
+.link-adres {
+    color: #434455 ;
     font-family: inherit;
     font-weight: 500;
     font-style: normal;
@@ -82,29 +62,14 @@ body{
 
 
   }
- .link {
-    color: #2e2f42 ;
-    font-family: inherit;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-decoration: none;
-    list-style-type: none;
-  }
-  .link:hover {
+
+  .link-adres:hover {
     color: #404bbf ;
   }
-  .link:focus {
+  .link-adres:focus {
     color: #404bbf;
   }
-  .link:hover{
-    color: #404bbf ;
-  }
-  .link:focus{
-    color: #404bbf ;
-  }
+
   .address-bar{
     font-style: normal;
   }
