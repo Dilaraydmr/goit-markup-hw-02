@@ -32,7 +32,7 @@ body{
     text-decoration: none;
   
 }
- #nav-bar-one {
+ .nav-bar-one {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
@@ -40,14 +40,14 @@ body{
     
 
  }
- #nav-bar-one:hover {
+ .nav-bar-one:hover {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
     color: #404bbf ;
     
 }
-#nav-bar-one:focus {
+.nav-bar-one:focus {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
