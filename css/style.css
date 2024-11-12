@@ -27,9 +27,11 @@ body{
 .nav-bar{
     color: #2E2F42;
     font-family: "Raleway";
-    font-weight: 700;
+    font-weight: 500;
     list-style-type: none;
     text-decoration: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
   
 }
  .nav-bar-one {
@@ -40,6 +42,19 @@ body{
     
 
  }
+ .nav-bar:hover {
+  font-weight: 500;
+  line-height: 1.5 ;
+  letter-spacing: 0.02em;
+  color: #404bbf ;
+  
+}
+.nav-bar:focus {
+  font-weight: 500;
+  line-height: 1.5 ;
+  letter-spacing: 0.02em;
+  color: #404bbf ;
+}
  .nav-bar-one:hover {
     font-weight: 500;
     line-height: 1.5 ;
