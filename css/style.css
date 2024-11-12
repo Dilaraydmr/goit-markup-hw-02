@@ -32,7 +32,7 @@ body{
     text-decoration: none;
   
 }
- #nav-bar-one {
+ .nav-bar-one {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
@@ -40,14 +40,14 @@ body{
     
 
  }
- #nav-bar-one:hover {
+ .nav-bar-one:hover {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
     color: #404bbf ;
     
 }
-#nav-bar-one:focus {
+.nav-bar-one:focus {
     font-weight: 500;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
@@ -73,7 +73,7 @@ body{
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
     list-style-type: none;
